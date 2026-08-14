@@ -1,4 +1,3 @@
-# Python-projects-practice
-Ejercicios y pruebas de aprendizaje
+# Python-projects
 
 Proyectos de Python desde cero

@@ -1,0 +1,20 @@
+[
+    {
+        "nombre": "queso",
+        "precio": 50.0,
+        "cantidad": 15,
+        "categoria": "lacteos"
+    },
+    {
+        "nombre": "leche",
+        "precio": 20.0,
+        "cantidad": 10,
+        "categoria": "lacteos"
+    },
+    {
+        "nombre": "manzana",
+        "precio": 3.0,
+        "cantidad": 40,
+        "categoria": "frutas"
+    }
+]

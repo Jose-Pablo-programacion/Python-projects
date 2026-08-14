@@ -1,0 +1,8 @@
+[
+    {
+        "nombre": "huevos",
+        "precio": 100.0,
+        "cantidad": 30,
+        "categoria": "alimentos perecederos"
+    }
+]
